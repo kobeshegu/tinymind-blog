@@ -3,6 +3,7 @@ title: Two-Min Papers by Myself
 date: 2024-11-11T07:51:22.229Z
 ---
 
+
 - **VanGogh: A Unified Multimodal Diffusion-based Framework for Video Colorization**
     - Dual Qformer to align and fuse features from multiple modalities, complemented by a depth-guided generation process and an optical flow loss, which help reduce color overflow
     - a color injection strategy and luma channel replacement are implemented to improve generalization and mitigate flickering artifacts
